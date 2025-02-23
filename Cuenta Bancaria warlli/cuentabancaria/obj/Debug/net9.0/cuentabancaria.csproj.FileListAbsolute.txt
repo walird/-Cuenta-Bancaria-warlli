@@ -1,0 +1,14 @@
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\bin\Debug\net9.0\cuentabancaria.exe
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\bin\Debug\net9.0\cuentabancaria.deps.json
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\bin\Debug\net9.0\cuentabancaria.runtimeconfig.json
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\bin\Debug\net9.0\cuentabancaria.dll
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\bin\Debug\net9.0\cuentabancaria.pdb
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.AssemblyInfoInputs.cache
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.AssemblyInfo.cs
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.csproj.CoreCompileInputs.cache
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.dll
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\refint\cuentabancaria.dll
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.pdb
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\cuentabancaria.genruntimeconfig.cache
+C:\Users\paule\Downloads\Cuenta Bancaria warlli\cuentabancaria\obj\Debug\net9.0\ref\cuentabancaria.dll
